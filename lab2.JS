@@ -22,7 +22,7 @@ console.log("Est-ce que", num1, "est un nombre pair ?", result1);
 console.log("Est-ce que", num2, "est un nombre pair ?", result2);
 
 
-console.log(5 + 10); // 15
+console.log(5 + 10); 
 
 
 var now = "Now in ";
@@ -33,4 +33,4 @@ console.log(now + three + d);
 var counter = 0;
 counter += 5;
 counter += 3;
-console.log(counter); // 8
+console.log(counter); 
